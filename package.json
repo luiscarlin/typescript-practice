@@ -1,0 +1,12 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:luiscarlin/typescript-practice.git",
+  "author": "Luis Carlin <luiscarlin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/lodash": "^4.14.144",
+    "lodash": "^4.17.15"
+  }
+}
