@@ -1,5 +1,10 @@
 # typescript-practice
 
+## But Why?
+
+- Intellisense in IDE
+- TSC compiler catches errors
+
 ## Basics
 
 ```bash
@@ -16,3 +21,4 @@ tsc index.ts
 
 - You can configure the ts compiler by using `tsconfig.json`
 - If a third party library you want to use does not support types, then you can intall community supported types from `@types`
+- `any` tells tsc to stop enforcing types. It pretty much becomes js. You shouldn't use it through.
